@@ -47,7 +47,7 @@ Creating insightful charts (e.g., Line charts for trends, Bar charts for compari
 A high-level dashboard summarizing the findings from this analysis is embedded below. This dashboard, created using Power BI (which leveraged the cleaned Excel data), illustrates the final business insights.
 
 
-[*Link to my dashboard*]([https://app.powerbi.com/view?r=eyJrIjoiMDNkMTlkYWQtYzAxNS00NWRhLTljMjktYjIxYzNhZmU0YjMzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9](https://app.powerbi.com/view?r=eyJrIjoiMDNkMTlkYWQtYzAxNS00NWRhLTljMjktYjIxYzNhZmU0YjMzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9))
+[Link to my dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMDNkMTlkYWQtYzAxNS00NWRhLTljMjktYjIxYzNhZmU0YjMzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9](https://app.powerbi.com/view?r=eyJrIjoiMDNkMTlkYWQtYzAxNS00NWRhLTljMjktYjIxYzNhZmU0YjMzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9))
 
 🤝 Contact
 
