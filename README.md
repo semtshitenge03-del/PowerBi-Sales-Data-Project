@@ -8,32 +8,21 @@ This project presents a comprehensive analysis of sales data, utilising Microsof
 
 🚀 Key Features and Analysis
 
-The analysis covered the following areas, structured within the provided Excel workbook:
-
 Sales Performance over Time:
-
 Trend analysis (Monthly, Quarterly, Annually) to identify seasonality and growth rates.
-
 Year-over-Year (YoY) and Quarter-over-Quarter (QoQ) comparison to measure performance against previous periods.
 
 Top N Analysis:
-
 Identification of Top 10 Products by revenue and quantity sold.
-
 Identification of Top 5 Customers by lifetime value and purchasing frequency.
-
 Analysis of the performance of the sales team/personnel.
 
 Geographic & Regional Breakdown:
-
 Sales distribution across different regions/states/countries.
-
 Identification of the highest and lowest-performing geographical markets.
 
 Profitability Analysis:
 Calculation of Gross Margin and Net Profit at product and region levels to identify high-value segments.
-
-
 Dashboards/Charts: Visual representations of key findings.
 Details on the data cleaning steps, calculated fields (e.g., Gross Profit, YoY Growth), and assumptions made during the analysis.
 
