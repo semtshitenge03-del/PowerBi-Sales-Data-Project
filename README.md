@@ -27,12 +27,10 @@ Dashboards/Charts: Visual representations of key findings.
 Details on the data cleaning steps, calculated fields (e.g., Gross Profit, YoY Growth), and assumptions made during the analysis.
 
 
-Data Visualization
-
+Data Visualisation
 Creating insightful charts (e.g., Line charts for trends, Bar charts for comparisons) within Excel.
 
 📈 Preview of Results
-
 A high-level dashboard summarizing the findings from this analysis is embedded below. This dashboard, created using Power BI (which leveraged the cleaned Excel data), illustrates the final business insights.
 
 
